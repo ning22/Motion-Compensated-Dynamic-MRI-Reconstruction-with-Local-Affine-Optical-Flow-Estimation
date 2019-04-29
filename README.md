@@ -7,3 +7,6 @@ IEEE Trans. Biomed Eng, Feb. 2019
 
 The paper is also available on arXiv 
 https://arxiv.org/pdf/1707.07089.pdf
+
+The data used in this demo is from 
+https://github.com/js3611/Deep-MRI-Reconstruction/tree/master/data
