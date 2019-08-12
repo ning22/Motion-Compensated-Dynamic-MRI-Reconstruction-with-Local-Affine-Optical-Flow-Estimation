@@ -10,3 +10,7 @@ https://arxiv.org/pdf/1707.07089.pdf
 
 The data used in this demo is from 
 https://github.com/js3611/Deep-MRI-Reconstruction/tree/master/data
+
+Toolbox required:
+MATLAB convex optimization https://epfl-lts2.github.io/unlocbox-html/
+Wavelet toolbox in this work "Myocardial motion analysis from B-mode echocardiograms"
