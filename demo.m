@@ -8,7 +8,7 @@
 mname = mfilename;
 mpath = mfilename('fullpath');
 
-% addpath(genpath('utils'));
+addpath(genpath('utils_wavelet'));
 addpath(genpath('data'));
 addpath('operators');
 clear;
